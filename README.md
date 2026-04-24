@@ -5,4 +5,4 @@ References:
 
 [2] T. Xu, A. B. Birchfield, K. M. Gegner, K. S. Shetye, and T. J. Overbye, “Application of large-scale synthetic power system models for energy economic studies,” in Proceedings of the 50th Hawaii International Conference on System Sciences, Honolulu, HI, January 2017
 
-[3] United States Environmental Protection Agency, “egrid with 2023 data,” https://www.epa.gov/system/files/documents/2025-06/egrid2023 data rev2.xlsx, [Online]. Accessed: January 16, 2026
+[3] United States Environmental Protection Agency, “egrid with 2023 data,” https://www.epa.gov/system/files/documents/2025-06/egrid2023_data_rev2.xlsx, [Online]. Accessed: January 16, 2026
