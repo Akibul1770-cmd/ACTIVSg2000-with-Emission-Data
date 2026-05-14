@@ -1,6 +1,6 @@
 Please cite the following research article if you use the emission data and the data center locations added to the ACTIVSg2000 system:
 
-A. H. Mazumder and Y. Sang, “System-Level Impacts of Flexible Data Center Load Scheduling on Cost, Emissions, and Transmission Congestion.” Accessed: May 14, 2026. [Online]. Available: https://arxiv.org/abs/2604.23128
+**A. H. Mazumder and Y. Sang, “System-Level Impacts of Flexible Data Center Load Scheduling on Cost, Emissions, and Transmission Congestion.” Accessed: May 14, 2026. [Online]. Available: https://arxiv.org/abs/2604.23128**
 
 System data and economic data for the ACTIVSg2000 2000-bus test system are obtained from the Electric Grid Test Case Repository of Texas A&M University [1] [2]. The emission data for the system are created using publicly available data from [3].
 
